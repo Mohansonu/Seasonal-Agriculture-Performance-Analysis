@@ -260,7 +260,7 @@ cd Seasonal-Agriculture-Performance-Analysis
 Install the required libraries:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scipy jupyter
+pip install pandas numpy matplotlib seaborn scipy
 ```
 
 Alternatively, the notebook can be executed directly in **Google Colab**.
