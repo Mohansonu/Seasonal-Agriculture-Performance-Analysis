@@ -224,7 +224,6 @@ Therefore, the best farming method can depend on the objective—maximizing prod
 * **Matplotlib**
 * **Seaborn**
 * **SciPy**
-* **Jupyter Notebook**
 * **Google Colab**
 
 ---
@@ -262,12 +261,6 @@ Install the required libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy jupyter
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
 ```
 
 Alternatively, the notebook can be executed directly in **Google Colab**.
@@ -343,7 +336,7 @@ Future versions of this project can include:
 
 ## 👨‍💻 Author
 
-**Mohan Sonu**
+**Mohan Banoth**
 
 B.Tech Computer Science Graduate | Data Analytics | Python | SQL | AI/ML
 
